@@ -12,9 +12,9 @@ https://katsuya414.github.io/Katsuya414.io/
 - 現職NTTコミュニケーションズ　ネットワークサービス部所属
 
 # 各種リンク
-- Twitter→https://twitter.com/katu7414
-- Facebook→https://www.facebook.com/katsuya.shima.1
-- Github→https://github.com/Katsuya414
-- LinkedIn→https://www.linkedin.com/in/katsuya-shima-36390b151/
-- Qiita→https://qiita.com/katu7414
-- はてなブログ→http://katu7414.hatenablog.com/
+- Twitter→ https://twitter.com/katu7414
+- Facebook→ https://www.facebook.com/katsuya.shima.1
+- Github→ https://github.com/Katsuya414
+- LinkedIn→ https://www.linkedin.com/in/katsuya-shima-36390b151/
+- Qiita→ https://qiita.com/katu7414
+- はてなブログ→ http://katu7414.hatenablog.com/
