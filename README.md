@@ -1,3 +1,3 @@
 # Katsuya414.io
 ## ポートフォリオ
-https://Katsuya414.github.io/
+https://katsuya414.github.io/Katsuya414.io/
