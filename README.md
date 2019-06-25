@@ -10,6 +10,25 @@ https://katsuya414.github.io/Katsuya414.io/
 - [自己紹介URL](https://gitpitch.com/Katsuya414/katuo#/)
 - 現職NTTコミュニケーションズ　ネットワークサービス部所属
 
+# Skills
+## Language
+- Python(1年),golang(1ヶ月)
+
+## Tool
+- Git, Jupyter(notebook), Slack
+
+## network
+- cisco(ios,ios-xe,ios-xr),juniper,VPP,FRR,vyos
+
+## network Automation
+- Batfish,pyATS,Genie,Ansible
+
+# Work Experience
+NTTコミュニケーションズ
+- network Automation
+　　　- Batfishで検証部分のテストの自動化
+
+
 # 各種リンク
 - [Twitter](https://twitter.com/katu7414)
 - [Facebook](https://www.facebook.com/katsuya.shima.1)
