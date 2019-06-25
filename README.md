@@ -36,6 +36,13 @@ pyATS + Genieでconfig確認の部分の自動化
 MPLS網の設計、構築、運用(チームで)
 チームの社内検証網の設計、構築、運用(個人)
 ```
+
+- Training instructor
+```
+
+```
+
+
 # Education
 - 2014~2018
      - 大阪工業大学　情報科学部　ネットワーク学科　通信方式研究室　IoTセキュリティの研究
@@ -46,14 +53,14 @@ MPLS網の設計、構築、運用(チームで)
 - ネットワークコンテスト略してNETCON 主催者
 
 ```
-- [1回目](https://connpass.com/event/101160/)
-- [2回目クラウドファンディング](https://camp-fire.jp/projects/view/134235)
+[1回目](https://connpass.com/event/101160/)
+[2回目クラウドファンディング](https://camp-fire.jp/projects/view/134235)
 ```
 
 ネットワークの初学者向け勉強会
-- https://supporterzcolab.com/event/653/
-- https://supporterzcolab.com/event/459/
-- https://supporterzcolab.com/event/417/
+- [1回目](https://supporterzcolab.com/event/417/)
+- [2回目](https://supporterzcolab.com/event/459/)
+- [3回目](https://supporterzcolab.com/event/653/)
 
 ## 大会やイベントでの受賞履歴
 - MBSハッカソン　
