@@ -12,7 +12,7 @@ https://katsuya414.github.io/Katsuya414.io/
 
 # Skills
 ## Language
-- Python(1年),golang(1ヶ月)
+- Python(1年),golang(1ヶ月),C(1年)
 
 ## Tool
 - Git, Jupyter(notebook), Slack
@@ -77,7 +77,8 @@ MPLS網の設計、構築、運用(チームで)
 
 [参加者として書いたブログ](http://katu7414.hatenablog.com/entry/2018/03/06/175106)
 
-
+# Interests
+network Automation,network,AWS
 
 
 # 各種リンク
