@@ -42,6 +42,9 @@ MPLS網の設計、構築、運用(チームで)
 新入社員に対してICTSCに模したネットワークトラブルシューティング研修を実施して満足度100%獲得
 ```
 
+- [development camp](https://developer.ntt.com/ja/blog/65f4c8a6-b7ef-4663-b38e-46d1ff8e1026)
+
+部署初の開発合宿を開催して、結果部長表彰を受賞
 
 # Education
 - 2014~2018
