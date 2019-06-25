@@ -26,7 +26,26 @@ https://katsuya414.github.io/Katsuya414.io/
 # Work Experience
 NTTコミュニケーションズ
 - network Automation
-　　　- Batfishで検証部分のテストの自動化
+```
+Batfishでネットワーク検証部分のテストの自動化
+Ansibleで一部VPN網のconfig変更の自動化の検証
+pyATS + Genieでconfig確認の部分の自動化
+```
+- network
+```
+MPLS網の設計、構築、運用(チームで)
+チームの社内検証網の設計、構築、運用(個人)
+```
+# Education
+- 2014~2018
+     - 大阪工業大学　情報科学部　ネットワーク学科　通信方式研究室　IoTセキュリティの研究
+
+# 外部活動(個人的なものも含む)
+## 登壇履歴
+- [JANOG43 LT登壇](https://www.janog.gr.jp/meeting/janog43/program/lt1)
+- ネットワークコンテスト略してNETCON 主催者
+     - [1回目](https://connpass.com/event/101160/)
+     - [2回目クラウドファンディング](https://camp-fire.jp/projects/view/134235)
 
 
 # 各種リンク
