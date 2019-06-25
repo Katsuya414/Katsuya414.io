@@ -50,6 +50,31 @@ MPLS網の設計、構築、運用(チームで)
 - [2回目クラウドファンディング](https://camp-fire.jp/projects/view/134235)
 ```
 
+ネットワークの初学者向け勉強会
+- https://supporterzcolab.com/event/653/
+- https://supporterzcolab.com/event/459/
+- https://supporterzcolab.com/event/417/
+
+## 大会やイベントでの受賞履歴
+- MBSハッカソン　
+[企業賞受賞](https://www.mbs.jp/hackathon/)
+
+- OITLT主催者
+[OITLT](http://katu7414.hatenablog.com/entry/2017/10/09/181702)
+
+- ICTSC7~8 学生運営委員
+
+[自作した問題と解説](http://katu7414.hatenablog.com/entry/2017/09/06/194553)
+
+[自作した小説](http://katu7414.hatenablog.com/entry/2017/09/22/185728)
+
+- ICTSC9優秀賞
+
+[参加者として書いたブログ](http://katu7414.hatenablog.com/entry/2018/03/06/175106)
+
+
+
+
 # 各種リンク
 - [Twitter](https://twitter.com/katu7414)
 - [Facebook](https://www.facebook.com/katsuya.shima.1)
