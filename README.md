@@ -15,7 +15,7 @@ https://katsuya414.github.io/Katsuya414.io/
 - Python(1年),golang(1ヶ月),C(1年)
 
 ## Tool
-- Git, Jupyter(notebook), Slack
+- Git, Jupyter(notebook), Slack,
 
 ## network
 - cisco(ios,ios-xe,ios-xr),juniper,VPP,FRR,vyos
