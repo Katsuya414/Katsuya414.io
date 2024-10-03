@@ -1,6 +1,5 @@
 # 職務経歴書
-9/15以降に入社可能な企業を探しています。
-それにあたって職務経歴をここに記します。
+とある諸事情により転職活動を開始します。
 
 ## ポートフォリオ
 https://katsuya414.github.io/Katsuya414.io/
@@ -8,11 +7,12 @@ https://katsuya414.github.io/Katsuya414.io/
 # 個人データ
 - 氏名　嶋　勝也(SHIMA KATSUYA)
 - [自己紹介URL](https://gitpitch.com/Katsuya414/katuo#/)
-- 現職NTTコミュニケーションズ　ネットワークサービス部所属
+- 現職 Cisco Systems G.K.
+- 前職 エヌ・ティ・ティ・コミュニケーションズ
 
 # Skills
 ## Language
-- Python(1年),golang(1ヶ月),C(1年)
+- Python(2年),golang(1ヶ月),C(1年)
 
 ## Tool
 - Git, Jupyter(notebook), Slack,
@@ -21,7 +21,7 @@ https://katsuya414.github.io/Katsuya414.io/
 - cisco(ios,ios-xe,ios-xr),juniper,VPP,FRR,vyos
 
 ## network Automation
-- Batfish,pyATS,Genie,Ansible
+- Batfish,pyATS,Genie,Ansible,Splunk,CNC
 
 # Work Experience
 NTTコミュニケーションズ
